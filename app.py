@@ -118,5 +118,5 @@ def stat2(start, end):
         
     return jsonify(stats_start_end)
 
-if __name__  = '__main__':
+if __name__  == '__main__':
     app.run(debug=True)
